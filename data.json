@@ -1,0 +1,10 @@
+{
+	"PetName" : "Alpha",
+	"AnimalType" : "Dog",
+	"AnimalGender" : "Male",
+	"AnimalAge" : 2,
+	"AnimalDescription" : "Alpha is a well trained police dog up for adoption",
+	"AdoptionFee" : "$199",
+	"url" : "https://cdn.pixabay.com/photo/2016/02/19/15/46/labrador-retriever-1210559__480.jpg"	
+}
+
